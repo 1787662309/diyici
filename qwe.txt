@@ -1,0 +1,7 @@
+project q;
+public class q{
+	public static void main(String args[]){
+	int i = 1;
+	
+}
+}
